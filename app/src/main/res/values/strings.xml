@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">UberET</string>
+    <string name="u_b_e_r">U B E R</string>
+    <string name="partner">PARTNER</string>
+    <string name="looking_for_the_rider_app">LOOKING FOR THE RIDER APP?</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="registration">REGISTRATION</string>
+    <string name="phone">Phone</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+</resources>
